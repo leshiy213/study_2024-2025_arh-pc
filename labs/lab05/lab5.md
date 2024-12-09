@@ -64,7 +64,7 @@ _start:
 ```
 
 #### **Задание 2: Вывод строки "Hello World!"**
-**Код программы:**
+**Код программы: **
 ```asm
 SECTION .data
     msg: DB 'Hello world!', 10
